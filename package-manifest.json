@@ -1,0 +1,15 @@
+{
+  "scope": "all package files except this self-referential manifest and later Git metadata",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 74,
+      "sha256": "c8ae0b5f68a8d5f0cdfb4e8efb1e6700d6309c9436ccbb15dd6cbf651135606c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1993,
+      "sha256": "88e011648a28a9c96dd86e83be503d87a7841666e1fe4ca038eefbb81ae5daf1"
+    }
+  ]
+}
